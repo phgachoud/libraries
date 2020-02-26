@@ -60,6 +60,11 @@ All directory names below are relative to the root directory of your ejson insta
 
 Contact the team: https://github.com/eiffelhub/json/issues
 
+## Contributing
+
+- If your modification is minor or you're asking for a functionality review the issues or create a new one
+- Otherwise any pull request is welcome.
+
 ## Releases
 
 ```
